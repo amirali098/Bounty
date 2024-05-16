@@ -340,6 +340,10 @@ small {
     max-width: 100%;
     height: auto
 }
+.popular-thumb .img-fluid{
+    max-width: 20vh;
+    height: 10vh
+}
 
 .figure {
     display: inline-block
