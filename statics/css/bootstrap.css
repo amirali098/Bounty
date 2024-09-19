@@ -340,6 +340,12 @@ small {
     max-width: 100%;
     height: auto
 }
+
+.thumb .img-fluid {
+    max-width: 15vh;
+    height: 15vh
+}
+
 .popular-thumb .img-fluid{
     max-width: 20vh;
     height: 10vh
